@@ -50,4 +50,3 @@ n/a
 Github Profile: https://github.com/aionarae
 
 Email: email
-https://portfolio-in-react-prod.netlify.app/
