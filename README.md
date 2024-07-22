@@ -1,8 +1,53 @@
-# React + Vite
+# Portfolio in React
+  
+## Screenshot:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Image alt text](./assets/images/project-screenshot.png)
 
-Currently, two official plugins are available:
+## Link to deployed application:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://portfolio-in-react-prod.netlify.app/
+
+## Description:
+
+The original portfolio has been successfully converted into a React application. This transition not only modernizes the underlying technology but also enhances the performance and scalability of the portfolio. By leveraging React's component-based architecture, the portfolio now offers a more dynamic and responsive user experience. The update also simplifies future maintenance and feature additions, ensuring that the portfolio can evolve with changing requirements and continue to showcase work effectively.
+
+## Table of Contents (Optional):
+
+n/a
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+
+## Installation
+
+npm install; npm run start
+
+## Usage
+
+n/a
+
+## Credits
+
+n/a
+
+## License 
+
+Copyright (c) Aiona. Licensed under the [MIT License](https://choosealicense.com/licenses/mit/) license. 
+
+## Contribute
+
+Contact me.
+
+## Tests
+
+n/a
+
+## Questions
+
+Github Profile: https://github.com/aionarae
+
+Email: email
+https://portfolio-in-react-prod.netlify.app/
